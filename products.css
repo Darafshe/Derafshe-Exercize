@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    padding-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+
+.menu-bar {
+    background-color: cadetblue;
+    display: flex;
+    padding-left: 50px;
+}
+table tr{
+    max-width: 200px;
+    max-height: 400px;
+}
